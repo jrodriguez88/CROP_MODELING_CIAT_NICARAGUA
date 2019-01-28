@@ -1,4 +1,4 @@
-# CROP_MODELING_CIAT_NICARAGUA: Repository for Upland Rice Crop Modeling - CIAT-Nicaragua.
+# CROP_MODELING_CIAT_NICARAGUA: Repository for Rice Crop Modeling - CIAT-Nicaragua.
  
  #### Contact: [Email](mailto:j.r.espinosa@cgiar.org) - [LinkedIn](https://www.linkedin.com/in/jeferson-rodriguez-espinoza-24749625/)
  
